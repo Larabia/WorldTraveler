@@ -1,5 +1,5 @@
 # WorldTraveler
-This is a simple PHP exercise to practice simple operations with numbers. 
+This is a simple PHP exercise to practice operations with numbers. 
 
 ## Let's start! 🚀
 
